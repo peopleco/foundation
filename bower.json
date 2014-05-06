@@ -2,7 +2,6 @@
   "name": "pco-foundation",
   "version": "5.2.2",
   "main": [
-    "css/foundation.css",
     "js/foundation.js"
   ],
   "dependencies": {

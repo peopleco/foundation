@@ -1,10 +1,6 @@
 {
-  "name": "foundation",
+  "name": "pco-foundation",
   "version": "5.2.2",
-  "main": [
-    "css/foundation.css",
-    "js/foundation.js"
-  ],
   "dependencies": {
     "jquery": ">= 2.1.0",
     "modernizr": ">= 2.7.2",
@@ -16,5 +12,5 @@
     "jquery.autocomplete": "devbridge/jQuery-Autocomplete#1.2.9",
     "lodash": "~2.4.1"
   },
-  "private": true
+  "private": false
 }
